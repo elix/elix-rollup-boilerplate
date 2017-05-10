@@ -1,6 +1,6 @@
 // rollup.config.js
 export default {
-  entry: 'src/bundle.js',
+  entry: 'src/main.js',
   format: 'cjs',
   dest: 'build/bundle.js'
 };

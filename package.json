@@ -9,6 +9,9 @@
     "elix": "elix/elix#master",
     "rollup": "^0.41.6"
   },
+  "scripts": {
+    "build": "rollup -c"
+  },
   "engines": {
     "node": "6.10.3",
     "npm": "3.10.10",

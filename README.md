@@ -10,5 +10,5 @@ flag set, or in Safari Technical Preview (no flag necessary).
 ## Building the project
 * yarn run build
  
-## Running without build
+## Running without building the project
 * Change the script src attribute in index.html from build/bundle.js to src/main.js
