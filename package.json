@@ -1,0 +1,17 @@
+{
+  "name": "elix-rollup-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate web project demonstrating use of Elix and Rollup",
+  "repository": "git@github.com:elix/elix-rollup-boilerplate",
+  "author": "The Elix Project Core Team <info@component.kitchen>",
+  "license": "MIT",
+  "dependencies": {
+    "elix": "elix/elix#master",
+    "rollup": "^0.41.6"
+  },
+  "engines": {
+    "node": "6.10.3",
+    "npm": "3.10.10",
+    "yarn": "0.23.4"
+  }
+}
