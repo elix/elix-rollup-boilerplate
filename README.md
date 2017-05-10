@@ -11,4 +11,4 @@ flag set, or in Safari Technical Preview (no flag necessary).
 * yarn run build
  
 ## Running without build
-* Change the script src attribute in index.html from build/demo.js to src/SingleSelectionDemo.js
+* Change the script src attribute in index.html from build/bundle.js to src/bundle.js
