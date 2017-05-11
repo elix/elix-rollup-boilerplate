@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@webcomponents/custom-elements@webcomponents/custom-elements#master":
+  version "1.0.0-rc.4"
+  resolved "https://codeload.github.com/webcomponents/custom-elements/tar.gz/1a67576345374222776c50141411fc4e63ecf717"
+
 abbrev@1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.0.tgz#d0554c2256636e2f56e7c2e5ad183f859428d81f"
@@ -2676,6 +2680,10 @@ watchpack@^0.2.1:
     async "^0.9.0"
     chokidar "^1.0.0"
     graceful-fs "^4.1.2"
+
+webcomponents.js@webcomponents/webcomponentsjs#1.0.0-rc.7:
+  version "1.0.0-rc.7"
+  resolved "https://codeload.github.com/webcomponents/webcomponentsjs/tar.gz/9b0c8b24b11d709fc6f725afe38250e682b86c4d"
 
 webpack-core@~0.6.9:
   version "0.6.9"
