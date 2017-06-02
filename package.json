@@ -6,8 +6,8 @@
   "author": "The Elix Project Core Team <info@component.kitchen>",
   "license": "MIT",
   "dependencies": {
+    "@elix/elix": "next",
     "@webcomponents/custom-elements": "webcomponents/custom-elements#master",
-    "elix": "elix/elix#master",
     "rollup": "^0.41.6",
     "webcomponents.js": "webcomponents/webcomponentsjs#1.0.0-rc.7"
   },

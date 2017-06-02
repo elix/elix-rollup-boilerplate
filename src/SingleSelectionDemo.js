@@ -1,5 +1,5 @@
-import SingleSelectionMixin from '../node_modules/elix/mixins/SingleSelectionMixin.js';
-import symbols from '../node_modules/elix/mixins/symbols.js';
+import SingleSelectionMixin from '../node_modules/@elix/elix/mixins/SingleSelectionMixin.js';
+import symbols from '../node_modules/@elix/elix/mixins/symbols.js';
 
 
 /*
